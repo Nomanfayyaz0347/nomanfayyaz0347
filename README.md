@@ -30,10 +30,33 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 
 ## 🧑‍💼 Professional Experience
 
-- **Star Marketing Online** — UI Developer (1.5 years)  
-- **Axact** — WordPress Developer (2 years)  
-- **Zepcom** — Frontend Developer (1 year)  
-- **RVT** — WordPress / Shopify Developer
+# Professional Experience
+
+## UI/UX & Frontend Developer — Star Marketing Online, Gulshan‑e‑Iqbal
+02/2022 – Present
+- Lead frontend developer for starMarketingonline.com, delivering responsive, accessible UIs using HTML5, CSS3, JavaScript and Next.js.
+- Built and customized WordPress themes and Shopify storefronts; integrated plugins and third‑party services.
+- Collaborated with designers and backend developers to implement pixel‑perfect interfaces and improve site performance.
+- Maintained code quality with Git, performed cross‑browser and mobile testing, and optimized for SEO and page speed.
+
+## Frontend Developer — Zepcom, DHA
+06/2020 – 12/2021
+- Developed responsive website layouts and interactive UI components using HTML, CSS and JavaScript.
+- Created and customized WordPress themes and handled theme integrations and migrations.
+- Worked on e‑commerce frontends (Shopify / Shopware), implemented product pages and checkout UI improvements.
+- Ensured cross‑browser compatibility, conducted performance tuning, and validated layouts with W3C standards.
+
+## Frontend Developer — ReaverTech (reavertech.com), Gulistan‑e‑Jauhar
+01/2019 – 04/2020
+- Converted PSD designs to responsive HTML/CSS and implemented WordPress custom themes.
+- Implemented front‑end features, optimized layouts for various devices, and performed compatibility testing.
+- Collaborated with project stakeholders to deliver on schedule and ensure design fidelity.
+
+## UI/UX Designer — Inqutech, Gulshan‑e‑Iqbal
+02/2017 – 12/2018
+- Designed website layouts, logos and marketing collateral; prepared assets for web implementation.
+- Produced wireframes and visual prototypes to improve user experience and guide development.
+- Worked closely with developers to translate designs into working interfaces and maintain brand consistency.
 
 ---
 
