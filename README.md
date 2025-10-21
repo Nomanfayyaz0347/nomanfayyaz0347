@@ -1,60 +1,63 @@
-# 👋 Assalam-o-Alaikum, I'm Noman Fayyaz
+# 👋 Hi, I'm **Noman Fayyaz**
 
-**UI Developer | Frontend Specialist (Next.js / WordPress)**  
-📍 Pakistan | 💼 Open to Remote / Onsite Opportunities
+**UI Developer | Frontend Engineer (Next.js / WordPress)**  
+📍 Pakistan | 💼 Open to Remote & Onsite Opportunities  
 
 ---
 
 ## 🧑‍💻 About Me
 
-Main ek **UI Developer** hoon jisko 4+ saal ka experience hai different companies ke sath jaise:
-- 🏢 **Star Marketing Online** — UI Developer (1.5 years)  
-- 🏢 **Axact** — WordPress Developer (2 years)  
-- 🏢 **Zepcom** — Frontend Developer (1 year)  
+I’m a passionate **UI Developer** with over **4 years of experience** building responsive, user-friendly, and visually engaging web interfaces.
+
+Throughout my career, I’ve worked with several well-known companies, contributing to projects ranging from custom WordPress themes to modern React-based applications.
+
+**Professional Experience:**  
+- 🏢 **Star Marketing Online** — UI Developer *(1.5 years)*  
+- 🏢 **Axact** — WordPress Developer *(2 years)*  
+- 🏢 **Zepcom** — Frontend Developer *(1 year)*  
 - 🏢 **RVT** — WordPress / Shopify Developer  
 
-Mujhe responsive design, performance optimization, aur creative web layouts banana pasand hai.  
-Currently **Next.js** aur **WordPress custom theme** development par focus kar raha hoon.
+I focus on writing clean, maintainable code and designing interfaces that look great on every device.  
+Currently, I’m exploring **Next.js** and **Headless WordPress** to build fast, scalable web experiences.
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
-- HTML5 / CSS3 / JavaScript (ES6+)  
-- TailwindCSS / Bootstrap  
-- React.js / Next.js  
-- WordPress Theme & WooCommerce Integration  
-- Git / GitHub / VS Code  
-- Basic PHP & Node.js understanding  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
+- **Styling:** TailwindCSS, Bootstrap, Responsive UI Design  
+- **CMS & E-Commerce:** WordPress Theme Development, WooCommerce  
+- **Tools:** Git, GitHub, VS Code  
+- **Other:** Basic PHP, Node.js, SEO Optimization
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Live Demo |
-|----------|--------------|------------|
-| 🏠 **Real Estate Landing Page** | Responsive property website clone (HTML, CSS, JS) | [Live](#) |
-| 🛒 **Ecommerce WP Theme** | Custom WordPress theme with WooCommerce | [Live](#) |
-| 💼 **Portfolio Website** | Next.js portfolio with Tailwind design | [Live](#) |
+|----------|--------------|-----------|
+| 🏠 **Real Estate Landing Page** | Fully responsive landing page built using HTML, CSS, and JS. | [Live](#) |
+| 🛒 **E-Commerce WP Theme** | Custom WordPress theme with WooCommerce integration. | [Live](#) |
+| 💼 **Personal Portfolio** | Modern portfolio site created with Next.js and TailwindCSS. | [Live](#) |
 
-> *(Add your real links above when available)*
+> *(Replace “#” with your live project links when available.)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 ![Noman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanfayyaz0347&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanfayyaz0347&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanfayyaz0347&layout=compact)
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let’s Connect
 
-- 💌 **Email:** nomanfayyaz0347@gmail.com  
+- 💌 **Email:** [nomanfayyaz0347@gmail.com](mailto:nomanfayyaz0347@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/nomanfayyaz0347](https://linkedin.com/in/nomanfayyaz0347)  
-- 🌐 **Portfolio:** [your-portfolio-link.com](#) *(add later when ready)*  
+- 🌐 **Portfolio:** [your-portfolio-link.com](#) *(Add your site when ready)*  
 
 ---
 
-⭐ *“Code smart, design clean, and keep improving every day.”*  
+⭐ *“Build with passion, design with purpose, and never stop improving.”*
