@@ -31,7 +31,7 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 ## 🧑‍💼 Professional Experience
 
 
-## UI/UX & Frontend Developer — Star Marketing Online, Gulshan‑e‑Iqbal
+## UI/UX & Frontend Developer — Star Marketing Online, Tariq road
 01/2024 – 05/2025
 - Lead frontend developer for starMarketingonline.com, delivering responsive, accessible UIs using HTML5, CSS3, JavaScript and Next.js.
 - Built and customized WordPress themes and Shopify storefronts; integrated plugins and third‑party services.
