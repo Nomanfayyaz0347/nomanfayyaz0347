@@ -65,7 +65,7 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 - Styling: TailwindCSS, Bootstrap, Responsive UI Design  
 - CMS & E-commerce: WordPress Theme Development, WooCommerce, Headless WordPress  
 - Tools: Git, GitHub, VS Code  
-- Other: Basic PHP, Node.js, SEO Optimization, PSD to HTML, Theme Integration & Customization, Cross-Browser & Responsive Testing, W3C validation
+- Other: Basic PHP, SEO Optimization, PSD to HTML, Theme Integration & Customization, Cross-Browser & Responsive Testing, W3C validation
 
 ---
 
@@ -73,11 +73,14 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 
 | Project | Description | Live Demo |
 |--------:|-------------|----------:|
-| 🏠 Real Estate Landing Page | Fully responsive landing page built using HTML, CSS, and JS. | [Live](#) |
-| 🛒 E-Commerce WP Theme | Custom WordPress theme with WooCommerce integration. | [Live](#) |
-| 💼 Personal Portfolio | Modern portfolio site created with Next.js and TailwindCSS. | [Live](#) |
+| 🌟 Star Marketing Online | CMS Strapi with a fully responsive Next.js frontend. | [Live](https://starmarketingonline.com) |
+| 🌟 Taptaptechnologies | WordPress them with Next.js and TailwindCSS. | [Live](https://taptaptechnologies.vercel.app/) |
+| 🌟 Hayya | Modern site created with Next.js and TailwindCSS. | [Live](https://hayya-webapp.vercel.app/home) |
+| 🌟 ACF v1 | WordPress with Next.js and TailwindCSS. | [Live](https://afc-frontend-v2.vercel.app/en) |
+| 🌟 ACF v4  | WordPress with Next.js and TailwindCSS. | [Live](https://afc-lyart.vercel.app/) |
+| 🌟 ACF v3  | WordPress with Next.js and TailwindCSS. | [Live](https://afc-frontend-v3.vercel.app/) |
 
-*(Replace “#” with your live project links when available.)*
+
 
 ---
 
@@ -88,21 +91,6 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 - Intermediate (Commerce) — Suraj-ud-Dullha - FB Area (07/2013 - 11/2015)  
 - Middle School / SSC Computer Science Certificate — Thesscolar Secondary (01/2002 - 08/2012)
 
----
-
-## 📊 GitHub Insights
-
-![Noman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanfayyaz0347&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanfayyaz0347&layout=compact)
-
----
-
-## 💬 Let’s Connect
-
-- ✉️ Email: [nomanfayyaz0347@gmail.com](mailto:nomanfayyaz0347@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/noman-fayyaz-b43592175/  
-- 🌐 Portfolio: [your-portfolio-link.com](#) *(Add your site when ready)*
 
 ---
 
