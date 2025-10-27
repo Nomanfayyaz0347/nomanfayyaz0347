@@ -72,13 +72,20 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 ## 🚀 Featured Projects
 
 | Project | Description | Live Demo |
-|--------:|-------------|----------:|
-| 🌟 Star Marketing Online | CMS Strapi with a fully responsive Next.js frontend. | [Live](https://starmarketingonline.com) |
-| 🌟 Taptaptechnologies | WordPress them with Next.js and TailwindCSS. | [Live](https://taptaptechnologies.vercel.app/) |
-| 🌟 Hayya | Modern site created with Next.js and TailwindCSS. | [Live](https://hayya-webapp.vercel.app/home) |
-| 🌟 ACF v1 | WordPress with Next.js and TailwindCSS. | [Live](https://afc-frontend-v2.vercel.app/en) |
-| 🌟 ACF v4  | WordPress with Next.js and TailwindCSS. | [Live](https://afc-lyart.vercel.app/) |
-| 🌟 ACF v3  | WordPress with Next.js and TailwindCSS. | [Live](https://afc-frontend-v3.vercel.app/) |
+|----------|--------------|------------|
+| 🌟 **Star Marketing Online** | CMS built with **Strapi** backend and a fully responsive **Next.js frontend**. | [Live](https://www.starmarketingonline.com/) |
+| 🌟 **Taptap Technologies** | Corporate website built with **WordPress**, integrated **Next.js frontend** and **TailwindCSS**. Fully responsive. | [Live](https://taptaptechnologies.vercel.app/) |
+| 🌟 **Hayya** | Modern and responsive web app developed with **Next.js** and **TailwindCSS**. | [Live](https://hayya-webapp.vercel.app/home) |
+| 🌟 **AFC v1** | Headless WordPress setup using **Next.js** and **TailwindCSS** for high-performance frontend. | [Live](https://afc-frontend-v2.vercel.app/en) |
+| 🌟 **AFC v4** | Updated version of AFC frontend — built with **Next.js** and **WordPress REST API**, optimized for speed and responsiveness. | [Live](https://afc-lyart.vercel.app/) |
+| 🌟 **AFC v3** | Headless **WordPress** + **Next.js** site featuring dynamic content and TailwindCSS-based layout. | [Live](https://afc-frontend-v3.vercel.app/) |
+| 🌟 **WP Theme 1** | Custom **WordPress theme** designed with **Elementor Pro**, focused on modern UI and full responsiveness. | [Live](https://darkslateblue-gnu-616559.hostingersite.com/) |
+| 🌟 **WP Theme 2** | Elegant **Elementor-based WordPress theme** with minimal, responsive layout. | [Live](https://aliceblue-kangaroo-135779.hostingersite.com/) |
+| 🌟 **Florish Shine** | Professional business **WordPress theme** built using **Elementor**, optimized for SEO & performance. | [Live](https://florishshine.com/) |
+| 🌟 **WP Theme 3** | Modern **WordPress + Elementor** website with custom animations and smooth scroll. | [Live](https://rosybrown-quail-447949.hostingersite.com/) |
+| 🌟 **WP Theme 4** | Clean and responsive **WordPress design** developed using **Elementor Pro**. | [Live](https://aquamarine-emu-701884.hostingersite.com/) |
+| 🌟 **Kennard Dixon** | Business consulting website developed in **WordPress + Elementor**, optimized for speed and UX. | [Live](https://kennarddixon.com/) |
+| 🌟 **Supreme Being** | Custom **Elementor theme** crafted for a modern brand identity, fully responsive and optimized. | [Live](https://supreme-being.co.uk/) |
 
 
 
