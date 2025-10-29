@@ -76,6 +76,7 @@ Next JS & WordPress Specialist & E‑commerce Guru | PSD to HTML | HTML to WordP
 | 🌟 **Star Marketing Online** | CMS built with **Strapi** backend and a fully responsive **Next.js frontend**. | [Live](https://www.starmarketingonline.com/) |
 | 🌟 **Taptap Technologies** | Corporate website built with **WordPress**, integrated **Next.js frontend** and **TailwindCSS**. Fully responsive. | [Live](https://taptaptechnologies.vercel.app/) |
 | 🌟 **Hayya** | Modern and responsive web app developed with **Next.js** and **TailwindCSS**. | [Live](https://hayya-webapp.vercel.app/home) |
+| 🌟 **the-woods-law-firm** | Modern web  developed. | [Live](https://the-woods-law-firm.vercel.app/) |
 | 🌟 **AFC v1** | Headless WordPress setup using **Next.js** and **TailwindCSS** for high-performance frontend. | [Live](https://afc-frontend-v2.vercel.app/en) |
 | 🌟 **AFC v4** | Updated version of AFC frontend — built with **Next.js** and **WordPress REST API**, optimized for speed and responsiveness. | [Live](https://afc-lyart.vercel.app/) |
 | 🌟 **AFC v3** | Headless **WordPress** + **Next.js** site featuring dynamic content and TailwindCSS-based layout. | [Live](https://afc-frontend-v3.vercel.app/) |
